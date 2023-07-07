@@ -11,5 +11,7 @@ This project was created in order to explore and visualize data on Covid-19 for 
 3.	Total Infection per Country
 4.	Percent Population Infected
 
-
+## Dashboard
 ![Dashboard 1](https://github.com/Constantine-Gogas/Covid-19-Data-Analysis/assets/138850457/2209142a-74f4-4a6c-a239-69d1ea89f9f3)
+
+Link: https://public.tableau.com/app/profile/constantine.gogas/viz/Covid-19_16789739214000/Dashboard1
