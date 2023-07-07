@@ -1,2 +1,3 @@
 # Covid-19-Data-Analysis
-A covid-19 data analysis using SQL and Tableau
+
+## Covid-19 Data Exploration and Visualization
