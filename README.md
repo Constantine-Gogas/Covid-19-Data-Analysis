@@ -6,4 +6,9 @@ This project was created in order to explore and visualize data on Covid-19 for 
 
 ## Questions:
 
+1.	Global Numbers
+2.	Total Death Count per Continent
+3.	Total Infection per Country
+4.	Percent Population Infected
+
 
