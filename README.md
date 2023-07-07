@@ -2,4 +2,8 @@
 
 ## Covid-19 Data Exploration and Visualization
 
-This project was created in order to explore and visualize data on Covid-19. The dataset was 
+This project was created in order to explore and visualize data on Covid-19 for my university class. The dataset was found on the website "Our world in data". In this project I answered four questions with SQL queries and uploaded the final dashboard on Tableau Public.
+
+## Questions:
+
+
